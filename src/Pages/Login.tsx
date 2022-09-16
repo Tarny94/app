@@ -18,7 +18,7 @@ const Login = () => {
             <input className="input-login" placeholder="PASSWORD"></input>
           </div>
           <div>
-            <div>...</div>
+            <div className="error-message"></div>
           </div>
           <div className="password-word">
             <p>I forgot the password</p>
