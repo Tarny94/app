@@ -1,25 +1,19 @@
 .login-container{
-  max-width: 740px;
-  margin: auto;
-  height: 550px;
-  min-height: 150px;
+  margin: 0px auto;
+  width: 750px;
   background: rgba(210,213,218,.1);
   border: 2px solid rgba(169,174,184,.2);
   text-align: center;
   border-radius: 10px;
   margin-top: 140px;
-  
 }
 
-.box-auth{
-  margin-top: 60px;
-  
-}
+
 
 .input-login {
  border: 2px solid rgba(169,174,184,.2);
  border-radius: 10px;
- padding: 23px 155px;
+ padding: 24px 155px;
  margin-bottom: 10px;
  font-size: 24px;
 }
@@ -42,6 +36,7 @@
 
 .login-title{
   padding-top: 10px;
+  text-transform: uppercase;
 }
 
 .authenticate-button{
